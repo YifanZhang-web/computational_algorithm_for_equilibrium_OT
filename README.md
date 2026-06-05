@@ -70,7 +70,6 @@ RUN_EXPERIMENTS = False  # Default: False, to preview notebook without running f
   - `solve_nested_euclidean_ot`: handles Eqm OT problem flow
 
 - **Notebook**: `eqm_ot_experiments.ipynb`
-  - Combined from two original notebooks
   - Includes configuration, running experiments, plotting, and summarizing results
 
 ## Notes
