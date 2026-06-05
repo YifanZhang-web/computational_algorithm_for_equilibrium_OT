@@ -79,5 +79,5 @@ RUN_EXPERIMENTS = False  # Default: False, to preview notebook without running f
 - All experiments use unrounded transport plans for sparsity and constraint-violation metrics.
 - Keep all `.py` files in the same folder as the notebook for correct imports on GitHub.
 - The original code of the APDAGD and Sinkhorn can be accessed through https://github.com/MuXauJl11110/Euclidean-Regularised-Optimal-Transport.
-- The original code of the dual solver method can be accessed through https://github.com/mblondel/smooth-ot
+- The original code of the dual solver method can be accessed through https://github.com/mblondel/smooth-ot.
 - If you have any questions, please contact yzhang854@connect.hkust-gz.edu.cn.
